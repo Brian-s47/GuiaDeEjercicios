@@ -5,3 +5,7 @@ El pilates es un método de entrenamiento físico y mental que combina técnicas
 - Mejorar la fuerza muscular
 - Mejorar la flexibilidad
 - Mejora la postura
+## Instrucciones
+- Comienza con un calentamiento suave de 5-10 minutos (puedes hacer estiramientos o respiraciones profundas).
+- Realiza una serie de ejercicios de pilates, como el "hundimiento de la pelvis", "la serie de 100" y "el puente", durante al menos 30 minutos.
+- Termina con un enfriamiento y estiramientos para relajar los músculos.
