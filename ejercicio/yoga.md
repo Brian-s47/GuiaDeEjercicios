@@ -5,4 +5,12 @@ El yoga es una disciplina que busca la armonía entre la mente y el cuerpo a tra
 - Aumenta la flexibilidad y el rango de movimiento.
 - Promueve la relajación y reduce el estrés.
 - Fortalece los músculos y mejora la postura.
-- Aumenta la concentración y la claridad mental. 
+- Aumenta la concentración y la claridad mental.
+## Instrucciones
+- Comienza con un calentamiento de 5-10 minutos con respiraciones profundas y movimientos suaves.
+- Realiza una secuencia de posturas, como:
+- Tadasana (Postura de la montaña)
+- Adho Mukha Svanasana (Postura del perro mirando hacia abajo)
+- Bhujangasana (Postura de la cobra)
+- Virabhadrasana (Postura del guerrero)
+- Mantén cada postura durante 5-10 respiraciones y finaliza con una meditación o savasana (postura del cadáver) durante 5-10 minutos. 
