@@ -10,3 +10,7 @@ La natación es un deporte o actividad recreativa que consiste en desplazarse en
 - Comienza con un calentamiento de 5-10 minutos (puedes hacer ejercicios de movilidad y estiramientos en tierra).
 - Realiza la actividad de natación durante al menos 30 minutos, alternando estilos (crol, espalda, pecho, mariposa).
 - Termina con un enfriamiento y estiramientos fuera del agua.
+## Consejos
+- Mantén una hidratación adecuada antes y después de nadar.
+- Usa gafas de natación para proteger tus ojos del cloro.
+- Escoge un ritmo que puedas mantener y trata de nadar en un entorno seguro.
