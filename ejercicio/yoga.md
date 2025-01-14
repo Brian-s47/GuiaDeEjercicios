@@ -14,3 +14,7 @@ El yoga es una disciplina que busca la armonía entre la mente y el cuerpo a tra
 - Bhujangasana (Postura de la cobra)
 - Virabhadrasana (Postura del guerrero)
 - Mantén cada postura durante 5-10 respiraciones y finaliza con una meditación o savasana (postura del cadáver) durante 5-10 minutos. 
+## Consejos
+- Escucha a tu cuerpo y no fuerces las posturas; cada persona tiene su propio ritmo.
+- Usa un tapete cómodo para mayor soporte y estabilidad.
+- Practica regularmente para obtener mejores resultados en flexibilidad y bienestar mental.
