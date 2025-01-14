@@ -13,3 +13,7 @@ Sombra (shadow boxing) durante 3 rondas de 3 minutos.
 - Trabajo en bolsa (heavy bag) durante 3 rondas de 3 minutos.
 Ejercicios de técnica y defensa durante 10-15 minutos.
 - Termina con un enfriamiento que incluya estiramientos y ejercicios de respiración.
+## Consejos
+- Mantén una buena técnica para evitar lesiones y maximizar la efectividad de los golpes.
+- Usa guantes y vendas para proteger tus manos y muñecas.
+- Practica con un compañero para mejorar tus habilidades de defensa y ataque en situaciones reales.
